@@ -32,6 +32,7 @@ public class CreateNewContact extends BaseClass{
 		
 		s.assertTrue(contactPage.getContact().equals(lastname),"Test case Failed");
 		s.assertAll();
+		//This the script
 	}
 
 }
