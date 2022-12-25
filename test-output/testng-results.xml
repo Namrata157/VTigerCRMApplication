@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29416" started-at="2022-11-01T08:20:44 IST" finished-at="2022-11-01T08:21:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29416" started-at="2022-11-01T08:20:44 IST" finished-at="2022-11-01T08:21:13 IST">
+      <class name="testNgImplementation.CreateNewOrganisation">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:testNgImplementation.CreateNewOrganisation@4cf4d528]" name="testSetup" is-config="true" duration-ms="20" started-at="2022-11-01T08:20:44 IST" finished-at="2022-11-01T08:20:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="classSetup()[pri:0, instance:testNgImplementation.CreateNewOrganisation@4cf4d528]" name="classSetup" is-config="true" duration-ms="7947" started-at="2022-11-01T08:20:44 IST" finished-at="2022-11-01T08:20:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetup -->
+        <test-method status="PASS" signature="methodSetup()[pri:0, instance:testNgImplementation.CreateNewOrganisation@4cf4d528]" name="methodSetup" is-config="true" duration-ms="3904" started-at="2022-11-01T08:20:52 IST" finished-at="2022-11-01T08:20:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetup -->
+        <test-method status="PASS" signature="createNewOrganisationTest()[pri:0, instance:testNgImplementation.CreateNewOrganisation@4cf4d528]" name="createNewOrganisationTest" duration-ms="14745" started-at="2022-11-01T08:20:56 IST" finished-at="2022-11-01T08:21:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewOrganisationTest -->
+        <test-method status="PASS" signature="methodTearDown()[pri:0, instance:testNgImplementation.CreateNewOrganisation@4cf4d528]" name="methodTearDown" is-config="true" duration-ms="1982" started-at="2022-11-01T08:21:10 IST" finished-at="2022-11-01T08:21:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method status="PASS" signature="classTearDown()[pri:0, instance:testNgImplementation.CreateNewOrganisation@4cf4d528]" name="classTearDown" is-config="true" duration-ms="769" started-at="2022-11-01T08:21:12 IST" finished-at="2022-11-01T08:21:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+        <test-method status="PASS" signature="testTearDown()[pri:0, instance:testNgImplementation.CreateNewOrganisation@4cf4d528]" name="testTearDown" is-config="true" duration-ms="0" started-at="2022-11-01T08:21:13 IST" finished-at="2022-11-01T08:21:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTearDown -->
+      </class> <!-- testNgImplementation.CreateNewOrganisation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
